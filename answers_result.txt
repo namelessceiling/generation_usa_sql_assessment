@@ -1,0 +1,202 @@
+Top 25 Schools email domain
+---------------------------
+ucsd.edu	
+cps.edu	
+ku.edu	
+vt.edu	
+oregonstate.edu	
+msu.edu	
+strathmore.edu	
+umich.edu	
+u.northwestern.edu	
+nyu.edu	
+pace.edu	
+asu.edu	
+berkeley.edu	
+ucdavis.edu	
+husky.neu.edu	
+drexel.edu	
+baylor.edu	
+g.ucla.edu	
+utexas.edu	
+ucsc.edu	
+monmouth.edu	
+case.edu	
+uw.edu	
+usc.edu	
+tamu.edu
+
+Number of .edu learners in New York: 50
+Number of Mobile Apps Users: 330
+
+sign_up_at	         COUNT(user_id)	 strftime('%H', sign_up_at)
+2018-10-02 00:24:47	 100	          00
+2018-10-01 01:32:24	 93	              01
+2018-10-03 02:55:44	 73	              02
+2018-09-17 03:43:07	 84	              03
+2018-10-03 04:33:52	 74	              04
+2018-09-19 05:00:03	 29	              05
+2018-02-27 06:52:01	 30	              06
+2018-09-22 07:59:08	 16	              07
+2018-09-17 08:52:48	 18	              08
+2018-09-15 09:30:30	 9	              09
+2018-09-21 10:35:54	 10	              10
+2018-10-02 11:43:27	 13	              11
+2018-10-02 12:47:41	 27	              12
+2018-09-14 13:09:17	 80	              13
+2018-10-01 14:42:01	 101	          14
+2018-09-24 15:15:21	 103	          15
+2018-09-28 16:43:13	 183	          16
+2018-10-01 17:43:59	 174	          17
+2018-09-19 18:12:46	 185	          18
+2018-09-24 19:48:30	 147	          19
+2018-09-12 20:55:37	 138	          20
+2018-09-13 21:51:39	 104	          21
+2018-09-27 22:56:28	 105	          22
+2018-09-25 23:37:00	 104	          23
+
+user_id	email_domain	country	city	postal	mobile_app	sign_up_at	user_id	learn_cpp	learn_sql	learn_html	learn_javascript	learn_java
+5b930a1fb5ee260bd7000297	miamioh.edu	US	Chicago	60623	mobile-user	2018-09-07 23:30:40	5b930a1fb5ee260bd7000297	completed			completed	
+5b89024f9e84713c2b0001e9	uic.edu	US	Chicago	60612	mobile-user	2018-08-31 08:54:41	5b89024f9e84713c2b0001e9				started	
+5b6522ce58212238bf000450	msu.edu	US	Chicago	60601	mobile-user	2018-08-04 03:51:44	5b6522ce58212238bf000450				started	
+5b4ef4909e8471e91d0001a8	valpo.edu	US	Chicago	60659	mobile-user	2018-07-18 08:04:33	5b4ef4909e8471e91d0001a8	started	completed	started	started	
+5a8cbf519e8471f04000009a	hawk.iit.edu	US	Chicago	60616	mobile-user	2018-02-21 00:37:38	5a8cbf519e8471f04000009a		started			
+59aff8df5821221e56000266	cps.edu	US	Chicago	60647	mobile-user	2017-09-06 13:32:16	59aff8df5821221e56000266	completed			completed	
+590809942524c854580002ef	u.northwestern.edu	US	Chicago	60659	mobile-user	2017-05-02 04:22:46	590809942524c854580002ef			completed	completed	
+58e937b3582122cb8f000026	utexas.edu	US	Chicago	60657	mobile-user	2017-04-08 19:19:17	58e937b3582122cb8f000026				started	
+588a712192f407d89c00020a	uchicago.edu	US	Chicago	60615	mobile-user	2017-01-26 21:58:59	588a712192f407d89c00020a	completed	started		completed	
+5bb51e189e84714a55000026	cps.edu	US	Chicago	60623		2018-10-03 19:52:57	5bb51e189e84714a55000026				completed	
+5bb51d9a961bae1d8800007d	cps.edu	US	Chicago	60623		2018-10-03 19:50:52	5bb51d9a961bae1d8800007d	started	started	started		
+5bb51d9823cd5329a400031a	cps.edu	US	Chicago	60623		2018-10-03 19:50:49	5bb51d9823cd5329a400031a		completed			
+5bb51d8baa33d1143800022f	cps.edu	US	Chicago	60623		2018-10-03 19:50:37	5bb51d8baa33d1143800022f	completed	completed	completed	completed	
+5bb51c22b5ee26b755000294	cps.edu	US	Chicago	60623		2018-10-03 19:44:35	5bb51c22b5ee26b755000294		completed		completed	
+5bb51b6f961bae1995000203	cps.edu	US	Chicago	60623		2018-10-03 19:41:36	5bb51b6f961bae1995000203				started	
+5bb51b6eb5ee26623b0002d8	cps.edu	US	Chicago	60623		2018-10-03 19:41:36	5bb51b6eb5ee26623b0002d8		started			started
+5bb5083a961baeaf780002aa	wisc.edu	US	Chicago	60606		2018-10-03 18:19:39	5bb5083a961baeaf780002aa	completed	completed	completed	completed	
+5bb4f6787fd36aebe70000f6	iit.edu	US	Chicago	60616		2018-10-03 17:03:53	5bb4f6787fd36aebe70000f6		started			
+5bb4f5e1927cfc33f9000049	acu.edu	US	Chicago	60602		2018-10-03 17:01:23	5bb4f5e1927cfc33f9000049	started				
+5bb4edc051d6f5a3c4000248	hawk.iit.edu	US	Chicago	60616		2018-10-03 16:26:41	5bb4edc051d6f5a3c4000248		completed			
+5bb4eb2f9e84713a7600021b	cps.edu	US	Chicago	60622		2018-10-03 16:15:44	5bb4eb2f9e84713a7600021b	started				
+5bb4dd0baa33d195b400007b	cps.edu	US	Chicago	60623		2018-10-03 15:15:25	5bb4dd0baa33d195b400007b	started	completed	started	started	
+5bb4dcabb1b21e08e7000068	wiu.edu	US	Chicago	60628		2018-10-03 15:13:49	5bb4dcabb1b21e08e7000068	started	started	completed	started	
+5bb4dc9bb5ee2636bc000055	cps.edu	US	Chicago	60623		2018-10-03 15:13:32	5bb4dc9bb5ee2636bc000055		completed	started		
+5bb4dc7a821b964762000059	cps.edu	US	Chicago	60623		2018-10-03 15:12:59	5bb4dc7a821b964762000059	completed	completed		completed	
+5bb4dc3e9c3fe78bce000057	cps.edu	US	Chicago	60623		2018-10-03 15:11:59	5bb4dc3e9c3fe78bce000057	completed	completed		completed	
+5bb4dc229e84713a76000057	cps.edu	US	Chicago	60623		2018-10-03 15:11:32	5bb4dc229e84713a76000057					
+5bb4dc1f961baed79f000057	cps.edu	US	Chicago	60623		2018-10-03 15:11:29	5bb4dc1f961baed79f000057		completed			
+5bb4dc0d23cd53d93100003f	cps.edu	US	Chicago	60623		2018-10-03 15:11:11	5bb4dc0d23cd53d93100003f				completed	
+5bb4dbf023cd53ef6d00005e	cps.edu	US	Chicago	60623		2018-10-03 15:10:41	5bb4dbf023cd53ef6d00005e		completed			
+5bb4dbe8b1b21ed70f00003e	cps.edu	US	Chicago	60623		2018-10-03 15:10:33	5bb4dbe8b1b21ed70f00003e	completed	completed	completed	completed	
+5bb4dbe7aa124417d200004b	cps.edu	US	Chicago	60623		2018-10-03 15:10:32	5bb4dbe7aa124417d200004b					
+5bb4dbe6821b96104800005c	cps.edu	US	Chicago	60623		2018-10-03 15:10:31	5bb4dbe6821b96104800005c	started			started	started
+5bb4dbe4aa12447054000063	cps.edu	US	Chicago	60623		2018-10-03 15:10:29	5bb4dbe4aa12447054000063		completed			
+5bb4dbe3b1b21e9a2800004b	cps.edu	US	Chicago	60623		2018-10-03 15:10:29	5bb4dbe3b1b21e9a2800004b			completed	completed	
+5bb4dbe39c3fe7094300003f	cps.edu	US	Chicago	60623		2018-10-03 15:10:29	5bb4dbe39c3fe7094300003f		completed		completed	
+5bb4dbe09e84710ea6000057	cps.edu	US	Chicago	60623		2018-10-03 15:10:25	5bb4dbe09e84710ea6000057					
+5bb4dac6b5ee269fc1000044	cps.edu	US	Chicago	60623		2018-10-03 15:05:43	5bb4dac6b5ee269fc1000044		started			started
+5bb445b3927cfc6a61000323	hawk.iit.edu	US	Chicago	60608		2018-10-03 04:29:40	5bb445b3927cfc6a61000323					
+5bb41a487fd36a1e6100005d	u.northwestern.edu	US	Chicago	60611		2018-10-03 01:24:25	5bb41a487fd36a1e6100005d	started	completed	started	started	
+5bb40fe3aa12440b7e00031c	hawk.iit.edu	US	Chicago	60616		2018-10-03 00:40:04	5bb40fe3aa12440b7e00031c			completed	completed	
+5bb406fd51d6f5d11300023a	u.northwestern.edu	US	Chicago	60617		2018-10-03 00:02:06	5bb406fd51d6f5d11300023a	started				
+5bb3d8e8b1b21e51fc00002d	hawk.iit.edu	US	Chicago	60616		2018-10-02 20:45:29	5bb3d8e8b1b21e51fc00002d	completed	completed		completed	
+5bb3c3b2821b9682bd00012d	u.northwestern.edu	US	Chicago	60614		2018-10-02 19:14:59	5bb3c3b2821b9682bd00012d					
+5bb3bcb0b1b21edb46000177	u.northwestern.edu	US	Chicago	60611		2018-10-02 18:45:06	5bb3bcb0b1b21edb46000177					
+5bb3a63951d6f5d5d200021b	u.northwestern.edu	US	Chicago	60640		2018-10-02 17:09:14	5bb3a63951d6f5d5d200021b				started	
+5bb3659c9e847195f4000061	u.northwestern.edu	US	Chicago	60645		2018-10-02 12:33:33	5bb3659c9e847195f4000061	started		started		started
+5bb2ef53b5ee26511e000686	u.northwestern.edu	US	Chicago	60657		2018-10-02 04:08:52	5bb2ef53b5ee26511e000686				completed	
+5bb2bc159c3fe77071000208	u.northwestern.edu	US	Chicago	60614		2018-10-02 00:30:14	5bb2bc159c3fe77071000208		started			
+5bb27bfe927cfc814f00018e	uchicago.edu	US	Chicago	60637		2018-10-01 19:56:48	5bb27bfe927cfc814f00018e					
+5bb26dadaa33d1b22c000100	uchicago.edu	US	Chicago	60616		2018-10-01 18:55:43	5bb26dadaa33d1b22c000100	started	started	completed	started	
+5bb26d1823cd53fde3000009	uchicago.edu	US	Chicago	60602		2018-10-01 18:53:14	5bb26d1823cd53fde3000009		completed	started		
+5bb24d85821b96a0fa00015f	cps.edu	US	Chicago	60623		2018-10-01 16:38:31	5bb24d85821b96a0fa00015f		completed		completed	
+5bb24d24aa33d150cb000200	cps.edu	US	Chicago	60623		2018-10-01 16:36:53	5bb24d24aa33d150cb000200					
+5bb24d18aa124456b5000116	cps.edu	US	Chicago	60623		2018-10-01 16:36:41	5bb24d18aa124456b5000116					
+5bb24d03aa33d1a8f20001c1	cps.edu	US	Chicago	60623		2018-10-01 16:36:21	5bb24d03aa33d1a8f20001c1	completed		completed	started	started
+5bb24d03b1b21e799800021e	cps.edu	US	Chicago	60623		2018-10-01 16:36:21	5bb24d03b1b21e799800021e				started	
+5bb24d03961bae399500003b	cps.edu	US	Chicago	60623		2018-10-01 16:36:20	5bb24d03961bae399500003b		started			started
+5bb24a4b821b9628ff00015c	hawk.iit.edu	US	Chicago	60616		2018-10-01 16:24:45	5bb24a4b821b9628ff00015c				started	
+5bb2351151d6f507e3000070	u.northwestern.edu	US	Chicago	60654		2018-10-01 14:54:10	5bb2351151d6f507e3000070					
+5bb22f11aa124420e40000c2	hawk.iit.edu	US	Chicago	60616		2018-10-01 14:28:34	5bb22f11aa124420e40000c2	completed		completed	started	started
+5bb226ed7fd36a1e74000161	cps.edu	US	Chicago	60623		2018-10-01 13:53:51	5bb226ed7fd36a1e74000161					
+5bb226ed51d6f56e66000296	cps.edu	US	Chicago	60623		2018-10-01 13:53:50	5bb226ed51d6f56e66000296					
+5bb2268b7fd36ac2df0002fe	cps.edu	US	Chicago	60623		2018-10-01 13:52:12	5bb2268b7fd36ac2df0002fe	started		started		started
+5bb22676aa33d1b5b400013b	cps.edu	US	Chicago	60623		2018-10-01 13:51:51	5bb22676aa33d1b5b400013b	completed			completed	
+5bb2264751d6f5d0cc0002bb	cps.edu	US	Chicago	60623		2018-10-01 13:51:04	5bb2264751d6f5d0cc0002bb	completed	started		completed	
+5bb22646aa1244a2bc00021a	cps.edu	US	Chicago	60623		2018-10-01 13:51:03	5bb22646aa1244a2bc00021a		started			
+5bb226387fd36ad96f000300	cps.edu	US	Chicago	60623		2018-10-01 13:50:49	5bb226387fd36ad96f000300	started	started	completed	started	
+5bb226299e8471f1a2000098	cps.edu	US	Chicago	60623		2018-10-01 13:50:34	5bb226299e8471f1a2000098		completed	started		
+5bb22628b5ee2684970000f8	cps.edu	US	Chicago	60623		2018-10-01 13:50:34	5bb22628b5ee2684970000f8	completed	completed		completed	
+5bb2262851d6f5f79f00025e	cps.edu	US	Chicago	60623		2018-10-01 13:50:34	5bb2262851d6f5f79f00025e	completed	completed		completed	
+5bb22622b5ee2616db000285	cps.edu	US	Chicago	60623		2018-10-01 13:50:28	5bb22622b5ee2616db000285					
+5bb224a351d6f5aed90002a9	cps.edu	US	Chicago	60623		2018-10-01 13:44:04	5bb224a351d6f5aed90002a9		completed			
+5bb1778e821b9662340005b7	umich.edu	US	Chicago	60605		2018-10-01 01:25:36	5bb1778e821b9662340005b7	started	completed	completed	started	completed
+5bb0f114961bae526c000117	uchicago.edu	US	Chicago	60637		2018-09-30 15:51:49	5bb0f114961bae526c000117	completed	started		completed	
+5bb03c0b7fd36a9de7000544	my.devry.edu	US	Chicago	60618		2018-09-30 02:59:25	5bb03c0b7fd36a9de7000544				completed	
+5bb02fa89e8471ec180004c5	chicagobooth.edu	US	Chicago	60607		2018-09-30 02:06:34	5bb02fa89e8471ec180004c5			completed	completed	
+5bb02aa8821b96f6c800001b	cps.edu	US	Chicago	60618		2018-09-30 01:45:14	5bb02aa8821b96f6c800001b	completed		completed	started	started
+5bafe9b023cd53811f00007d	uic.edu	US	Chicago	60601		2018-09-29 21:08:01	5bafe9b023cd53811f00007d	completed		started		completed
+5bafaa827fd36a25e4000401	uic.edu	US	Chicago	60639		2018-09-29 16:38:28	5bafaa827fd36a25e4000401					
+5baebdefb5ee26603a00013b	cps.edu	US	Chicago	60618		2018-09-28 23:49:04	5baebdefb5ee26603a00013b		started	completed	completed	completed
+5bae6a36b5ee26cb55000009	uchicago.edu	US	Chicago	60602		2018-09-28 17:51:51	5bae6a36b5ee26cb55000009					
+5bae69b9b1b21edc72000031	cps.edu	US	Chicago	60623		2018-09-28 17:49:46	5bae69b9b1b21edc72000031	started		started		started
+5bae4842821b96ad500002be	uchicago.edu	US	Chicago	60637		2018-09-28 15:27:00	5bae4842821b96ad500002be		started			
+5bae3e4d9e84710da0000170	cps.edu	US	Chicago	60623		2018-09-28 14:44:30	5bae3e4d9e84710da0000170		completed			
+5bae35d451d6f531f9000131	cps.edu	US	Chicago	60623		2018-09-28 14:08:21	5bae35d451d6f531f9000131	completed		completed	started	started
+5bae2f60b1b21e088a000231	cps.edu	US	Chicago	60623		2018-09-28 13:40:49	5bae2f60b1b21e088a000231	completed		started		completed
+5bae2dccaa33d12ffa00029c	cps.edu	US	Chicago	60623		2018-09-28 13:34:05	5bae2dccaa33d12ffa00029c		started			
+5bae2d93821b96c3b00002bc	cps.edu	US	Chicago	60623		2018-09-28 13:33:08	5bae2d93821b96c3b00002bc	started				
+5bae2a54821b964d7c0002a6	cps.edu	US	Chicago	60623		2018-09-28 13:19:17	5bae2a54821b964d7c0002a6	started		started		started
+5bad9da6b1b21e152f0003fe	cps.edu	US	Chicago	60640		2018-09-28 03:19:03	5bad9da6b1b21e152f0003fe					
+5bad8ec99e847101e200008f	hawk.iit.edu	US	Chicago	60616		2018-09-28 02:15:39	5bad8ec99e847101e200008f				completed	
+5b9adbeab5ee2673c900009d	nyu.edu	US	New York	10003	mobile-user	2018-09-13 21:51:39	5b9adbeab5ee2673c900009d	started	started	started		
+5b949988aa124444fb000453	princeton.edu	US	New York	10013	mobile-user	2018-09-09 03:54:49	5b949988aa124444fb000453					
+5b9174fb9c3fe743b8000148	bxscience.edu	US	New York	10128	mobile-user	2018-09-06 18:42:04	5b9174fb9c3fe743b8000148	started	started	completed	started	
+5b917313927cfca47000015e	bxscience.edu	US	New York	10128	mobile-user	2018-09-06 18:33:56	5b917313927cfca47000015e		completed	started		
+5b8554cc961bae4d04000368	studeny.cuny.edu	US	New York	10019	mobile-user	2018-08-28 13:57:33	5b8554cc961bae4d04000368	started	completed	completed	started	completed
+5b7f46c4821b9659900002a4	asu.edu	US	New York	10012	mobile-user	2018-08-23 23:44:05	5b7f46c4821b9659900002a4	started			started	started
+5b71d43e2524c8bfa0000070	myhunter.cuny.edu	US	New York	10065	mobile-user	2018-08-13 18:55:59	5b71d43e2524c8bfa0000070	started	started	completed	started	
+5b6c9617961bae6e9c0000d9	columbia.edu	US	New York	10027	mobile-user	2018-08-09 19:29:28	5b6c9617961bae6e9c0000d9	started			started	started
+5b63171d8369669290000367	binghamton.edu	US	New York	10022	mobile-user	2018-08-02 14:37:18	5b63171d8369669290000367		started			
+5b4a522bb1b21e344d00016c	berkeley.edu	US	New York	10003	mobile-user	2018-07-14 19:42:36	5b4a522bb1b21e344d00016c	started	started	completed	started	
+5ae27a63836966ed930004a9	bths.edu	US	New York	10027	mobile-user	2018-04-27 01:18:28	5ae27a63836966ed930004a9				completed	
+5a8dbdaa961bae3a40000117	nyu.edu	US	New York	10003	mobile-user	2018-02-21 18:42:51	5a8dbdaa961bae3a40000117				started	
+59e5eb24aa33d135130000eb	mail.citytech.cuny.edu	US	New York	10026	mobile-user	2017-10-17 11:36:05	59e5eb24aa33d135130000eb	started			started	started
+59d3ada1854be9e6ca000008	columbia.edu	US	New York	10025	mobile-user	2017-10-03 15:32:51	59d3ada1854be9e6ca000008					
+59cb1067aa33d1cea300021b	columbia.edu	US	New York	10025	mobile-user	2017-09-27 02:43:52	59cb1067aa33d1cea300021b				started	
+5bb518437fd36a4b8b0001e5	nyu.edu	US	New York	10003		2018-10-03 19:28:05	5bb518437fd36a4b8b0001e5				completed	
+5bb5012f51d6f5149b0001c4	bxscience.edu	US	New York	10128		2018-10-03 17:49:36	5bb5012f51d6f5149b0001c4					
+5bb4e4fab5ee26df6e000139	nyu.edu	US	New York	10001		2018-10-03 15:49:15	5bb4e4fab5ee26df6e000139				started	
+5bb47f98961baed480000052	columbia.edu	US	New York	10025		2018-10-03 08:36:41	5bb47f98961baed480000052					
+5bb3c6f651d6f51a13000083	g.clemson.edu	US	New York	10036		2018-10-02 19:28:55	5bb3c6f651d6f51a13000083		started			
+5bb3c5f2961baeca63000054	cornell.edu	US	New York	10044		2018-10-02 19:24:35	5bb3c5f2961baeca63000054				started	
+5bb3acdfaa1244c220000046	alumni.cmu.edu	US	New York	10005		2018-10-02 17:37:36	5bb3acdfaa1244c220000046				completed	
+5bb3ab5251d6f545ce00007e	bxscience.edu	US	New York	10128		2018-10-02 17:31:00	5bb3ab5251d6f545ce00007e	completed	completed	completed	completed	
+5bb3983e23cd5354610000ae	dwight.edu	US	New York	10118		2018-10-02 16:09:35	5bb3983e23cd5354610000ae		completed		completed	
+5bb367fd9e8471d17a000280	dwight.edu	US	New York	10118		2018-10-02 12:43:42	5bb367fd9e8471d17a000280					
+5bb2c1d4b1b21ef3370002db	sva.edu	US	New York	10001		2018-10-02 00:54:45	5bb2c1d4b1b21ef3370002db				started	
+5bb2896fb5ee268f350000d6	baruchmail.cuny.edu	US	New York	10010		2018-10-01 20:54:08	5bb2896fb5ee268f350000d6	completed		started		completed
+5bb27f25821b966139000233	albany.edu	US	New York	10009		2018-10-01 20:10:15	5bb27f25821b966139000233		completed			
+5bb27e45aa1244fd5d000217	newschool.edu	US	New York	10011		2018-10-01 20:06:31	5bb27e45aa1244fd5d000217					
+5bb2682e927cfc3a2c00025b	tigermail.qcc.cuny.edu	US	New York	10019		2018-10-01 18:32:16	5bb2682e927cfc3a2c00025b		completed			
+5bb254209e847183e3000068	nyu.edu	US	New York	10011		2018-10-01 17:06:42	5bb254209e847183e3000068	completed	completed		completed	
+5bb24c16b1b21e32a600022b	newschool.edu	US	New York	10003		2018-10-01 16:32:23	5bb24c16b1b21e32a600022b				started	
+5bb1f0e2b5ee2642630002d4	sva.edu	US	New York	10016		2018-10-01 10:03:15	5bb1f0e2b5ee2642630002d4		started			
+5bb18a50927cfcb20d00011e	pace.edu	US	New York	10038		2018-10-01 02:45:37	5bb18a50927cfcb20d00011e		started			
+5bb174639e847167450000e5	sva.edu	US	New York	10011		2018-10-01 01:12:05	5bb174639e847167450000e5	completed	completed		completed	
+5bb16692b5ee2621a600011e	nyu.edu	US	New York	10003		2018-10-01 00:13:07	5bb16692b5ee2621a600011e		started			started
+5bb14348aa1244888d000126	nyu.edu	US	New York	10003		2018-09-30 21:42:34	5bb14348aa1244888d000126				started	
+5bb13d389c3fe75b4c000043	njit.edu	US	New York	10016		2018-09-30 21:16:41	5bb13d389c3fe75b4c000043		started	completed	completed	completed
+5bb138cab5ee26eb1000023b	newschool.edu	US	New York	10036		2018-09-30 20:57:48	5bb138cab5ee26eb1000023b	completed	started		completed	
+5bb11f519c3fe7586b000068	columbia.edu	US	New York	10025		2018-09-30 19:09:06	5bb11f519c3fe7586b000068				completed	
+5bafc740aa33d1a74400000c	gradcenter.cuny.edu	US	New York	10029		2018-09-29 18:41:06	5bafc740aa33d1a74400000c		completed			
+5baf807323cd539c310003c9	sva.edu	US	New York	10016		2018-09-29 13:39:01	5baf807323cd539c310003c9			completed	completed	
+5baef7d0b1b21e39330004f1	vols.utk.edu	US	New York	10022		2018-09-29 03:56:01	5baef7d0b1b21e39330004f1		started			
+5baec176b1b21eae84000154	columbia.edu	US	New York	10025		2018-09-29 00:04:07	5baec176b1b21eae84000154	completed		started		completed
+5bae364323cd53164b000165	bxscience.edu	US	New York	10128		2018-09-28 14:10:12	5bae364323cd53164b000165					
+5bae2671821b96f499000247	dwight.edu	US	New York	10118		2018-09-28 13:02:43	5bae2671821b96f499000247	completed	started		completed	
+5bad664db1b21e3b1d00039c	nyu.edu	US	New York	10012		2018-09-27 23:22:54	5bad664db1b21e3b1d00039c	started	started	completed	started	
+5bad65367fd36ac2c900036e	mail.citytech.cuny.edu	US	New York	10019		2018-09-27 23:18:15	5bad65367fd36ac2c900036e		completed	started		
+5bad5af423cd53b149000213	baruchmail.cuny.edu	US	New York	10003		2018-09-27 22:34:29	5bad5af423cd53b149000213			completed	completed	
+5bad4b7c9c3fe7ff400001a8	nyu.edu	US	New York	10003		2018-09-27 21:28:29	5bad4b7c9c3fe7ff400001a8		completed		completed	
+
+
