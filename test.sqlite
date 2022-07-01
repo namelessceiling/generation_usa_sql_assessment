@@ -1,0 +1,38 @@
+--Counts the number of users for the email domains then orders it by the top 25 most used emails
+SELECT email_domain, COUNT(user_id)
+FROM users
+GROUP BY email_domain
+ORDER BY COUNT(user_id) DESC
+LIMIT 25;
+
+--Displays the number of users in New York
+SELECT city, COUNT(user_id)
+FROM users
+WHERE city = 'New York';
+
+--Displays all mobile app users
+SELECT mobile_app, COUNT(user_id)
+FROM users
+WHERE mobile_app = 'mobile-user';
+
+--Orders by time starting with the hour at 0 up to 23
+--strftime('%H', sign_up_at) is what's being referred to from the GROUP BY 3 line
+SELECT sign_up_at, COUNT(user_id),
+   strftime('%H', sign_up_at)
+FROM users
+GROUP BY 3;
+
+--Joins both tables together & displays all the data
+SELECT *
+FROM users
+JOIN progress
+  ON users.user_id = progress.user_id
+LIMIT 200;
+
+--Only displays the data from users in New York or Chicago after joining
+SELECT *
+FROM users
+JOIN progress
+  ON users.user_id = progress.user_id
+WHERE users.city IN('New York', 'Chicago')
+ORDER BY users.city;
